@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/822e6015-9e5f-42a3-8fdb-9f0cb1f16964/resourceGroups/RG-Uppgift3-ChaimaTebini/providers/Microsoft.Web/sites/chaimasApp",
+    "appService.deploySubpath": "."
+}
